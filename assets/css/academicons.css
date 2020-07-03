@@ -190,6 +190,12 @@
 .ai-researchgate-square:before {
   content: "\e855";
 }
+.ai-academia:before {
+  content: "\e9af";
+}
+.ai-academia-square:before {
+  content: "\e93d";
+}
 .ai-scirate:before {
   content: "\e856";
 }
