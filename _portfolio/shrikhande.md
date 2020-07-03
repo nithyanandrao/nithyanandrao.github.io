@@ -2,7 +2,7 @@
 
 title: "Shrikhande, “Euler’s Spoiler”, Turns 100"
 
-excerpt: "An account of the life and career, on the occasion of his one-hundredth birthday, of the mathematician S.S. Shrikhande. <br/><img src='/images/500x300.png'>"
+excerpt: "An account of the life and career, on the occasion of his one-hundredth birthday, of the mathematician S.S. Shrikhande. <br/><img src='/images/Shrikhande.jpg'>"
 
 collection: portfolio
 
