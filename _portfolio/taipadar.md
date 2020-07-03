@@ -1,7 +1,7 @@
 ---
 
 title: "What an Adivasi Village in Chhattisgarh Can Teach Us About Sustainable Development"
-excerpt: "'Appropriate technology' in Bastar <br/><img src='/images/500x300.png'>"
+excerpt: "'Appropriate technology' in Bastar <br/><img src='/images/Taipadar.jpg'>"
 collection: portfolio
 
 ---
