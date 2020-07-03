@@ -2,7 +2,7 @@
 
 title: "Joint Director of Zoological Survey Plagiarised Book, Published False Data"
 
-excerpt: "Investigative story on malpractice at ZSI. <br/><img src='/images/500x300.png'>"
+excerpt: "Investigative story on malpractice at ZSI. <br/><img src='/images/ZSI.jpg'>"
 
 collection: portfolio
 
