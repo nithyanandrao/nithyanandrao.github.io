@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming graduate student in the Department of Communication / Science Studies Program at the University of California San Diego. I'm interested in how knowledge production in the "global south", particularly in India, fits within global hierarchies, and the myriad ways in which this is influenced by and influences our views of
+I'm an incoming graduate student in the [Department of Communication](https://communication.ucsd.edu/) / [Science Studies Program](https://sciencestudies.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/). I'm interested in how knowledge production in the "global south", particularly in India, fits within global hierarchies, and the myriad ways in which this is influenced by and influences our views of
 people, knowledge and their histories, especially in the public sphere.
 
 
