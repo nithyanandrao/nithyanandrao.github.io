@@ -115,6 +115,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.zotero %}
+        <li><a href="{{ author.zotero }}"><i class="ai ai-zotero-square ai-fw"></i> Zotero</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
