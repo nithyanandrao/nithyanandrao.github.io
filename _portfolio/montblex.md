@@ -2,7 +2,7 @@
 
 title: "MONTBLEX: India’s First Major Monsoon Experiment"
 
-excerpt: "An effort led by researchers at IISc <br/><img src='/images/500x300.png'>"
+excerpt: "An effort led by researchers at IISc <br/><img src='/images/Montblex.jpg'>"
 
 collection: portfolio
 
