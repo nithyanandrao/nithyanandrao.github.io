@@ -4,4 +4,4 @@ excerpt: "On the controversies surrounding the India-based Neutrino Observatory<
 collection: portfolio
 ---
 
-I co-wrote the story with my friend Virat Markandeya, and you can read it [here](https://science.thewire.in/politics/why-indias-most-sophisticated-science-experiment-languishes-between-a-rock-and-a-hard-place/).
+On the controversies surrounding the India-based Neutrino Observatory, a proposed particle physics experiment in Theni district, Tamil Nadu, that has faced public opposition. I co-wrote it with my friend Virat Markandeya. It was my first story for the mainstream media, and it won the RedInk Award in the Science & Innovation Category for 2017. Read it [here](https://science.thewire.in/politics/why-indias-most-sophisticated-science-experiment-languishes-between-a-rock-and-a-hard-place/)
