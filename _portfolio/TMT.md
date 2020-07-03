@@ -2,7 +2,7 @@
 
 title: "Astronomers May Not Like It but Astronomy and Colonialism Have a Shared History"
 
-excerpt: "To see the conflict as science vs. religion is simplistic. <br/><img src='/images/500x300.png'>"
+excerpt: "To see the conflict as science vs. religion is simplistic. <br/><img src='/images/TMT.jpg'>"
 
 collection: portfolio
 
