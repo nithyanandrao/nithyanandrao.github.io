@@ -2,7 +2,7 @@
 
 title: "The Absence of Evidence for Nipah in Fruit Bats Is Not Evidence of Absence"
 
-excerpt: "A detailed analysis of the zoonotic origins of the 2018 Nipah outbreak in Kerala. <br/><img src='/images/500x300.png'>"
+excerpt: "A detailed analysis of the zoonotic origins of the 2018 Nipah outbreak in Kerala. <br/><img src='/images/Nipah.jpg'>"
 
 collection: portfolio
 
