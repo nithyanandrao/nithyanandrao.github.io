@@ -2,7 +2,7 @@
 title: "Characterizing the Complexity of Time Series Networks of Dynamical Systems: A Simplicial Approach"
 collection: publications
 permalink: /publication/2020-Chaos
-<!---excerpt: 'This paper is about the number 2. The number 3 is left for future work.'--->
+excerpt: ''
 date: 2020-01-07
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://doi.org/10.1063/1.5100362'
