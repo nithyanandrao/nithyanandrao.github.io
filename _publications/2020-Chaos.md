@@ -10,6 +10,6 @@ citation: 'Chutani, Malayaja, Nithyanand Rao, N. Nirmal Thyagu, and Neelima Gupt
 ---
 <!---This paper is about the number 2. The number 3 is left for future work.--->
 
-[Download paper here](http://academicpages.github.io/files/Chaos.pdf)
+[Download the published paper here](http://academicpages.github.io/files/Chaos.pdf). The arXiv version is [here](https://arxiv.org/abs/1807.03154).
 
 <!---Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).--->
