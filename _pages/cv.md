@@ -11,31 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Physics, [Sacred Heart College](http://www.shcollege.ac.in/Home), [Mahatma Gandhi University](https://www.mgu.ac.in/), 2008
+* M.Sc. Physics, [University of Hyderabad](http://uohyd.ac.in/), 2010
+* M.Tech. Industrial Mathematics and Scientific Computing, [Indian Institute of Technology Madras](http://www.iitm.ac.in/), 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2015 -- July 2020: [Indian Institute of Science](http://iisc.ac.in), Bengaluru
+  * Consultant Editor, Office of Communications (formerly the Archives and Publications Cell). I was a staff writer and editor for [*Connect*](http://connect.iisc.ac.in/), the official magazine of the Institute.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2017 -- : Co-Founder and Contributing Editor, [*Bhāvanā*](http://www.bhavana.org.in)
+  * A mathematics magazine published by the non-profit Bhavana Trust, Bengaluru.
+
+* May 2010 -- April 2012: Assistant Editor, [Wiley India Pvt. Ltd.](http://www.wileyindia.com/), New Delhi, a subsidiary of John Wiley & Sons, Inc.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +42,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
