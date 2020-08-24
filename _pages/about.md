@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student (Fall 2020-- ) in the [Department of Communication](https://communication.ucsd.edu/) / [Science Studies Program](https://sciencestudies.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/). I'm interested in how knowledge production in the "global south", particularly in India, fits within global hierarchies, and the ways in which this is influenced by and influences our views of nations, peoples, knowledges and their histories, especially in public and media discourse.
+I'm a graduate student (Fall 2020-- ) in the [Department of Communication](https://communication.ucsd.edu/) / [Science Studies Program](https://sciencestudies.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/). I'm interested in studying the practice of science in contemporary India and how it influences, and is influenced by, hierarchies of various kinds. Also interested in how the narratives surrounding science and technology, especially in media coverage, influence our views of peoples, knowledges, and their histories.
 
 Previously, I was a staff writer/editor for [<em>Connect</em>](https://connect.iisc.ac.in), the official magazine of the [Indian Institute of Science](https://iisc.ac.in) in Bangalore, India. Independently, I freelanced occasionally for the mainstream media in India, mostly for the science section of [<em>The Wire</em>](https://science.thewire.in). I also co-founded the mathematics magazine [<em>Bhāvanā</em>](https://bhavana.org.in).
 
