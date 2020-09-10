@@ -1,6 +1,6 @@
 ---
 title: "Why India’s Most Sophisticated Science Experiment Languishes Between a Rock and a Hard Place"
-excerpt: "On the controversies surrounding the India-based Neutrino Observatory<br/><img src='/images/500x300.png'>"
+excerpt: "On the controversies surrounding the India-based Neutrino Observatory<br/><img src='/images/INO.jpg'>"
 collection: portfolio
 ---
 
