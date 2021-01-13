@@ -10,9 +10,7 @@ redirect_from:
 
 I'm a graduate student (Fall 2020-- ) in the [Department of Communication](https://communication.ucsd.edu/) / [Science Studies Program](https://sciencestudies.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/). I'm interested in studying the practice of science in contemporary India and how it influences, and is influenced by, hierarchies of various kinds. Also interested in how the narratives surrounding science and technology, especially in media coverage, influence our views of peoples, knowledges, and their histories.
 
-Previously, I was a staff writer/editor for [<em>Connect</em>](https://connect.iisc.ac.in), the official magazine of the [Indian Institute of Science](https://iisc.ac.in) in Bangalore, India. Independently, I freelanced occasionally for the mainstream media in India, mostly for the science section of [<em>The Wire</em>](https://science.thewire.in). I also co-founded the mathematics magazine [<em>Bhāvanā</em>](https://bhavana.org.in).
-
-In a former life, I did a Master's in Physics and then worked in the editorial office of [Wiley India Pvt. Ltd.](https://www.wileyindia.com/), the Indian subsidiary of [John Wiley & Sons, Inc](http://www.wiley.com/).
+Previously a science writer and a lapsed physicist.
 
 ---
 
